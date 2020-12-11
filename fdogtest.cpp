@@ -17,7 +17,7 @@ int main(void)
 			max=j[i];
 		}
 	} 
-		printf("%d",max);
+		printf("你输入的三个数中最大的是：%d",max);
 	return 0;
 }
 
