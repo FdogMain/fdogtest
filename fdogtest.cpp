@@ -18,6 +18,7 @@ int main(void)
 		}
 	} 
 		printf("你输入的三个数中最大的是：%d",max);
+		printf("我现在再用G1分支编写内容"); 
 	return 0;
 }
 
